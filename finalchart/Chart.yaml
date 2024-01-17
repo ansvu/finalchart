@@ -4,7 +4,7 @@ annotations:
   charts.openshift.io/provider: RedHat
   charts.openshift.io/supportURL: https://github.com/ansvu/finalchart
 apiVersion: v2
-appVersion: 1-42
+appVersion: 1-22
 description: A Helm chart for Kubernetes
 icon: https://www.example.com/chart-icon.png
 kubeVersion: '>=1.20.0'
